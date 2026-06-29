@@ -1,4 +1,4 @@
-# 
+# 轻量 AI Expense Tracker with NLP 工作流。集成 强化学习 和 边缘AI，性能最大化。
 
 
 
